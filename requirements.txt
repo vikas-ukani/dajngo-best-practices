@@ -1,0 +1,35 @@
+astroid==2.2.5
+atomicwrites==1.3.0
+attrs==19.1.0
+autopep8==1.4.4
+certifi==2019.6.16
+colorama==0.4.1
+# Editable install with no version control (Django==2.2.1)
+-e c:\users\vikas\appdata\local\programs\python\python37-32\lib\site-packages
+django-filter==2.2.0
+django-templated-mail==1.1.1
+djangorestframework==3.10.2
+djoser==2.0.3
+docformatter==1.3
+isort==4.3.15
+lark-parser==0.7.2
+lazy-object-proxy==1.3.1
+Markdown==3.1.1
+mccabe==0.6.1
+more-itertools==6.0.0
+pipenv==2018.11.26
+pluggy==0.9.0
+py==1.8.0
+pycodestyle==2.5.0
+pylint==2.3.1
+pytest==4.3.1
+pytz==2019.1
+PyYAML==5.1.2
+required==0.4.0
+six==1.12.0
+sqlparse==0.3.0
+typed-ast==1.3.1
+untokenize==0.1.1
+virtualenv==16.7.2
+virtualenv-clone==0.5.3
+wrapt==1.11.1
